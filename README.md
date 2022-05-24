@@ -176,3 +176,5 @@ There are different wrapper methods such as Backward Elimination, Forward Select
 ![OUTPUT](./10.jpg)
 
 ![OUTPUT](./11.jpg)
+# RESULT:
+Various feature selection techniques have been performed on a given dataset successfully.
