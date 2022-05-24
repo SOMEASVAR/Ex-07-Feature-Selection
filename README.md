@@ -164,6 +164,7 @@ There are different wrapper methods such as Backward Elimination, Forward Select
 ```
 ## BACKWARD ELIMINATION:
 ![OUTPUT](./5.jpg)
+
 ![OUTPUT](./6.jpg)
 ## RECURSIVE FEATURE ELIMINATION(RFE):
 ![OUTPUT](./7.jpg)
@@ -173,4 +174,5 @@ There are different wrapper methods such as Backward Elimination, Forward Select
 ![OUTPUT](./9.jpg)
 ## EMBEDDED METHOD:
 ![OUTPUT](./10.jpg)
+
 ![OUTPUT](./11.jpg)
